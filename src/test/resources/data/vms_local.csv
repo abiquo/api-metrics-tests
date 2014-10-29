@@ -1,0 +1,30 @@
+[
+   {
+      "url":"/cloud/virtualdatacenters/1/virtualappliances/1/virtualmachines/1",
+      "metric": "A",
+      "small": "<datapoints><datapoint><timestamp>1414055181000</timestamp><longValue>1</longValue></datapoint></datapoints>",
+      "large": "<datapoints><datapoint><timestamp>1414055181000</timestamp><longValue>1</longValue></datapoint></datapoints>",
+      "huge": "<datapoints><datapoint><timestamp>1414055181000</timestamp><longValue>1</longValue></datapoint></datapoints>"
+   },
+   {
+      "url":"/cloud/virtualdatacenters/1/virtualappliances/1/virtualmachines/3",
+      "metric": "B",
+      "small": "<datapoints><datapoint><timestamp>1414055181000</timestamp><longValue>1</longValue></datapoint></datapoints>",
+      "large": "<datapoints><datapoint><timestamp>1414055181000</timestamp><longValue>1</longValue></datapoint></datapoints>",
+      "huge": "<datapoints><datapoint><timestamp>1414055181000</timestamp><longValue>1</longValue></datapoint></datapoints>"
+   },
+   {
+      "url":"/cloud/virtualdatacenters/1/virtualappliances/1/virtualmachines/3",
+      "metric": "C",
+      "small": "<datapoints><datapoint><timestamp>1414055181000</timestamp><longValue>1</longValue></datapoint></datapoints>",
+      "large": "<datapoints><datapoint><timestamp>1414055181000</timestamp><longValue>1</longValue></datapoint></datapoints>",
+      "huge": "<datapoints><datapoint><timestamp>1414055181000</timestamp><longValue>1</longValue></datapoint></datapoints>"
+   },
+   {
+      "url":"/cloud/virtualdatacenters/1/virtualappliances/1/virtualmachines/4",
+      "metric": "D",
+      "small": "<datapoints><datapoint><timestamp>1414055181000</timestamp><longValue>1</longValue></datapoint></datapoints>",
+      "large": "<datapoints><datapoint><timestamp>1414055181000</timestamp><longValue>1</longValue></datapoint></datapoints>",
+      "huge": "<datapoints><datapoint><timestamp>1414055181000</timestamp><longValue>1</longValue></datapoint></datapoints>"
+   }
+]

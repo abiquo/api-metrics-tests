@@ -1,0 +1,14 @@
+[ 	
+  {
+    "name":"small", 
+    "set":"<datapoints><datapoint><timestamp>1414055181000</timestamp><longValue>1</longValue></datapoint></datapoints>"
+  },
+	{ 
+    "name":"large",
+    "set":"<datapoints><datapoint><timestamp>1414055181000</timestamp><longValue>1</longValue></datapoint></datapoints>" 
+  },
+  {
+    "name":"huge",
+    "set": "<datapoints><datapoint><timestamp>1414055181000</timestamp><longValue>1</longValue></datapoint></datapoints>" 
+  }
+]
